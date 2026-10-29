@@ -2,7 +2,7 @@
 
 Describe a mystery and Gemini writes the case. Question the suspects, examine clues, ask for hints, then name the culprit. The solution stays on the server until you accuse. Full blueprint: [SPEC.md](./SPEC.md).
 
-**Live app:** _add your Vercel URL here_
+**Live app:** https://claude.ai/artifact/3yzJ9w4s3GFpMww5WJPGx5
 
 ## Features
 - Gemini generates a complete, validated whodunit at three difficulty levels (3 / 4 / 5 suspects).
